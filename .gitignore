@@ -1,0 +1,4 @@
+__pycache__
+balanced_dataset
+balanced_dataset/person/*
+*.pth
